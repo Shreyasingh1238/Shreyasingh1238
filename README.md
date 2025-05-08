@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
-<h3 align="center">A passionate frontend developer & aspiring data analyst</h3>
+<h3 align="center">A passionate frontend developer & aspiring Java developer</h3>
 
 - 🔭 I’m currently working on **React JS Projects**
-- 🌱 I’m learning **DevOps, Trading & PHP**
+- 🌱 I’m learning **DevOps, Java & PHP**
 - 💬 Ask me about **Frontend, AI tools & GATE CS prep**
 - 📫 How to reach me: **sshreya1238@gmail.com**
 
@@ -12,6 +12,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+
 
 ### 🔥 GitHub Stats
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyasingh1238&show_icons=true&theme=radical)
