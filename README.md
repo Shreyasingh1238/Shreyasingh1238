@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @Shreyasingh1238
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...<h1 align="center">Hi 👋, I'm Shreya Singh</h1>
+<h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">A passionate frontend developer & aspiring data analyst</h3>
 
 - 🔭 I’m currently working on **React JS Projects**
 - 🌱 I’m learning **DevOps, Trading & PHP**
 - 💬 Ask me about **Frontend, AI tools & GATE CS prep**
-- 📫 How to reach me: **shreyasingh1238@gmail.com**
+- 📫 How to reach me: **sshreya1238@gmail.com**
 
 ### 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
@@ -25,8 +19,8 @@
 ---
 
 ### 📌 Latest Projects:
-- 🌐 My React Website (coming soon!)
-- 📊 Power BI Dashboard
+- 🌐 My React Website 
+- 📊 Power BI Dashboard(coming soon!)
 - 🤖 AI Chatbot using Android Studio
 
 
